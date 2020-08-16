@@ -1,1 +1,1 @@
-![](mithi.gif)
+![](mithil.gif)
