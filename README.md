@@ -1,2 +1,2 @@
-![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true)
+![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true| width=2160)
 
