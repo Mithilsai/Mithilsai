@@ -2,14 +2,15 @@
 ![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true)
 # MITHIL
 
-### Connect with me:
+## Connect with me:
 
 <img align="left" alt="https://mithilsai.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Mithilsai3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="Mithil Sai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="mithil_sai_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-### Tools as Weapons:
+
+## Tools as Weapons:
 
 [<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
