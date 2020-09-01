@@ -1,5 +1,6 @@
 # Salut Sapiens, Je suis 
 ![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true)
+# **MITHIL** 
 ### Connect with me:
 
 [<img align="left" alt="https://mithilsai.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
