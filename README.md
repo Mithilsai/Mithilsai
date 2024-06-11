@@ -40,27 +40,19 @@ Hello! I'm Mithil Sai Jakka, a passionate and driven software engineer with a pe
 - **Tech Stack**: React, JavaScript, CSS, OpenWeatherMap API, Google Maps API
 - **Description**: Real-time weather data application with responsive design and data visualizations.
 - **Outcome**: Improved user engagement by 18%.
-- **Repository**: [The React Storm](https://github.com/yourusername/react-storm)
-
-![React Storm Screenshot](https://your-screenshot-link.com/react-storm.png)
 
 ### Categorization of Integumentary System Disorders Using Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 - **Tech Stack**: TensorFlow, Inception v3, Data Augmentation, Feature Engineering
 - **Description**: Deep learning model to classify skin diseases with 92% accuracy.
 - **Outcome**: Increased training dataset size by 40%.
-- **Repository**: [Skin Disorder Classification](https://github.com/yourusername/skin-disorder-classification)
-
-![Skin Disorder Classification Screenshot](https://your-screenshot-link.com/skin-disorder-classification.png)
 
 ### Elegant Logistics Management System Empowered by Angular 12
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - **Tech Stack**: Angular 12, JavaScript, Firebase, CSS
 - **Description**: Logistics management system with secure authentication and responsive design.
 - **Outcome**: Reduced manual data entry efforts by 40%.
-- **Repository**: [Logistics Management System](https://github.com/yourusername/logistics-management-system)
 
-![Logistics Management System Screenshot](https://your-screenshot-link.com/logistics-management-system.png)
 
 ## 📈 Triumphs
 
@@ -72,18 +64,17 @@ Hello! I'm Mithil Sai Jakka, a passionate and driven software engineer with a pe
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Mithil Sai Jakka](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@mithil_sai](https://twitter.com/yourprofile)
-- **Email**: mithil.jakka@example.com
+- **LinkedIn**: [Mithil Sai Jakka]([https://www.linkedin.com/in/mithil1729/])
+- **Email**: mithilsaijakka@gmail.com
 
 ## 🌐 Explore My Work
 
-- **GitHub Repositories**: [github.com/mithil-sai](https://github.com/yourprofile)
+- **GitHub Repositories**: [github.com/mithil-sai](https://github.com/mithilsai)
 
 Thank you for visiting my GitHub profile! I am always open to collaboration and new opportunities. Let's innovate and create impactful solutions together!
 
 ---
 
 <p align="center">
-  <img src="https://your-profile-banner-link.com/footer.png" alt="Footer Image" width="600px">
+  <img src="https://media.discordapp.net/attachments/984632500875821066/1140567741892395008/Beeast_mix_space_with_python_code_and_astronaut_in_futuristic_s_781fa4f3-d720-4e7b-bcdb-fdcf13fe18bf.png" alt="Footer Image" width="600px">
 </p>
