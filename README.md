@@ -76,5 +76,5 @@ Thank you for visiting my GitHub profile! I am always open to collaboration and 
 ---
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/984632500875821066/1140567741892395008/Beeast_mix_space_with_python_code_and_astronaut_in_futuristic_s_781fa4f3-d720-4e7b-bcdb-fdcf13fe18bf.png" alt="Footer Image" width="600px">
+  <img src="https://github.com/Mithilsai/Web-Version-2/blob/main/assets/img/hero-bg.png" alt="Footer Image" width="600px">
 </p>
