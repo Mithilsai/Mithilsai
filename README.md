@@ -1,28 +1,89 @@
-# Salut Sapiens, Je suis Mithil Sai Jakka
-![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true)
-Welcome to my digital realm, where innovation meets sophistication. I'm Mithil, an Architect (INTJ-T) by personality, hailing from the vibrant city of Anantapur, Andhra Pradesh, India, and currently pursuing my professional and academic journey in Urbana, IL, USA. My passion for technology and data has led me to explore diverse avenues, constantly pushing the boundaries of what’s possible.
+# 🌟 Mithil Sai Jakka - Architect of Code
 
-## Tools as Weapons
+(![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true))
 
-In my arsenal, I wield a powerful set of tools and technologies to conquer the challenges of the tech world. Here’s a glimpse of my toolkit:
+Hello! I'm Mithil Sai Jakka, a passionate and driven software engineer with a penchant for creating efficient and innovative solutions. Currently residing in Urbana, IL, USA, I hail from the vibrant city of Anantapur, Andhra Pradesh, India. With a Master’s in Computer Technology from Eastern Illinois University and a Bachelor’s in Computer Science and Engineering from Sathyabama Institute of Science and Technology, I have honed a wide array of skills across various domains of technology.
 
-<img align="left" alt="Studio" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
-<img align="left" alt="Python" width="26px" src="https://banner2.cleanpng.com/20180715/phb/kisspng-python-javascript-logo-clojure-python-logo-download-5b4ba705f356d3.4338622815316846139967.jpg" />
-<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
-<img align="left" alt="Bi" width="26px" src="https://www.onmsft.com/wp-content/uploads/2019/09/powerbiapp.jpg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Mssql" width="26px" src="https://img2.pngio.com/sql-server-connect-using-enterprise-manager-to-sql-server-2005-sql-server-management-studio-png-222_227.png" />.
+## 🚀 About Me
 
-<br/>
+- 🎓 **Education**: 
+  - **M.S in Computer Technology**, Eastern Illinois University (4.0/4.0 CGPA)
+  - **B.E in Computer Science and Engineering**, Sathyabama Institute of Science and Technology (Distinction)
 
-## Know My Status
+- 💼 **Work Experience**:
+  - **AI/ML Engineer**, Healthcare Triangle, Inc
+  - **Technology Consulting Virtual Intern**, Deloitte, India
+  - **Data Analytics Consulting Virtual Intern**, KPMG India
+  - **Graduate Rotational Intern**, Sparks Foundation India
+  - **Campus Ambassador**, Dell India
 
-![Mithilsai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithilsai&show_icons=true&theme=radical)
+## 💻 Technical Skills
 
-## Languages Capability
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithilsai)](https://github.com/Mithilsai/github-readme-stats)
+**Programming Languages**: Python, C++, C, Java, JavaScript, HTML, CSS, SQL  
+**Frameworks and Libraries**: Angular, React, TensorFlow, Vertex AI  
+**Tools and Platforms**: Google Cloud, Firebase, Power BI, Tableau, Adobe XD, Davinci Resolve  
+**Data Science and Analytics**: Machine Learning, Feature Engineering, Bioinformatics, Genomics, R, SAS  
+**Professional Skills**: Linux, Git, Teamwork, Time Management, Problem-solving, Documentation
+
+## 🏆 Projects
+
+### The React Storm: A Dynamic Weather Application
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Tech Stack**: React, JavaScript, CSS, OpenWeatherMap API, Google Maps API
+- **Description**: Real-time weather data application with responsive design and data visualizations.
+- **Outcome**: Improved user engagement by 18%.
+- **Repository**: [The React Storm](https://github.com/yourusername/react-storm)
+
+![React Storm Screenshot](https://your-screenshot-link.com/react-storm.png)
+
+### Categorization of Integumentary System Disorders Using Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **Tech Stack**: TensorFlow, Inception v3, Data Augmentation, Feature Engineering
+- **Description**: Deep learning model to classify skin diseases with 92% accuracy.
+- **Outcome**: Increased training dataset size by 40%.
+- **Repository**: [Skin Disorder Classification](https://github.com/yourusername/skin-disorder-classification)
+
+![Skin Disorder Classification Screenshot](https://your-screenshot-link.com/skin-disorder-classification.png)
+
+### Elegant Logistics Management System Empowered by Angular 12
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- **Tech Stack**: Angular 12, JavaScript, Firebase, CSS
+- **Description**: Logistics management system with secure authentication and responsive design.
+- **Outcome**: Reduced manual data entry efforts by 40%.
+- **Repository**: [Logistics Management System](https://github.com/yourusername/logistics-management-system)
+
+![Logistics Management System Screenshot](https://your-screenshot-link.com/logistics-management-system.png)
+
+## 📈 Triumphs
+
+- **Open Source Contributions**: Active participant in Hacktober Fest and other open-source events.
+- **Training**: Completed courses like IBM Data Science, Python for Everybody, and Machine Learning with TensorFlow on the Google Cloud Platform.
+- **Publications**:
+  - IEEE Conference Paper: *Categorization of Integumentary System Disorders Using Deep Learning*
+  - Arxiv Literature Review: *Assessing Exoplanet Habitability through Data-driven Approaches: A Comprehensive Literature Review*
+
+## 📫 Let's Connect!
+
+- **LinkedIn**: [Mithil Sai Jakka](https://linkedin.com/in/yourprofile)
+- **Twitter**: [@mithil_sai](https://twitter.com/yourprofile)
+- **Email**: mithil.jakka@example.com
+
+## 🌐 Explore My Work
+
+- **GitHub Repositories**: [github.com/mithil-sai](https://github.com/yourprofile)
+
+Thank you for visiting my GitHub profile! I am always open to collaboration and new opportunities. Let's innovate and create impactful solutions together!
+
+---
+
+<p align="center">
+  <img src="https://your-profile-banner-link.com/footer.png" alt="Footer Image" width="600px">
+</p>
