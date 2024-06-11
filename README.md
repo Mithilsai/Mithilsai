@@ -1,6 +1,6 @@
 # 🌟 Mithil Sai Jakka - Architect of Code
 
-(![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true))
+![gif from Mithil](https://github.com/Mithilsai/Mithilsai/blob/master/mithil.gif?raw=true)
 
 Hello! I'm Mithil Sai Jakka, a passionate and driven software engineer with a penchant for creating efficient and innovative solutions. Currently residing in Urbana, IL, USA, I hail from the vibrant city of Anantapur, Andhra Pradesh, India. With a Master’s in Computer Technology from Eastern Illinois University and a Bachelor’s in Computer Science and Engineering from Sathyabama Institute of Science and Technology, I have honed a wide array of skills across various domains of technology.
 
